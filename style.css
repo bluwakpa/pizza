@@ -10,7 +10,7 @@
 @import url(https://fonts.googleapis.com/css?family=Quattrocento|Playfair+Display);
 
 body {
-  background-color: #5f5345;
+  background-color: white;
 }
  
 .pageContainer {
@@ -45,7 +45,7 @@ h1 {
 p, li {
   font-family: oswald, open sans, sans-serif;
   font-size: 22px;
-  color: #51473b;
+  color: #8b1b00;
 }
 
 
