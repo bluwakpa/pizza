@@ -37,13 +37,13 @@ img {
 }
  
 h1 {
-  font-family: 'Fredericka the Great', cursive;
+  font-family: quattrocento, oswald, open sans;
   font-size: 64px;
   color: #8b1b00;
 }
  
 p, li {
-  font-family: 'Lato', sans-serif;
+  font-family: oswald, open sans, sans-serif;
   font-size: 22px;
   color: #51473b;
 }
