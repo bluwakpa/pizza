@@ -35,8 +35,8 @@ main > div > article {
 }
 
 main > div > article > section {
-  margin-left: -100%;
-  width: 100%;
+  margin-left: -200%;
+  width: 800%;
   border-bottom: 3px solid #black;
 }
 
