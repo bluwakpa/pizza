@@ -37,7 +37,7 @@ main > div > article {
 main > div > article > section {
   margin-left: -200%;
   width: 1000%;
-  border-bottom: 3px solid #black;
+  border-bottom: 3px solid black;
 }
 
 main > div > article > section:last-child {
@@ -86,7 +86,7 @@ main > div > article > section p {
 main > div {
   border: 3px solid black;
   padding: 10px;
-  background-color: grey;
+  background-color: white;
   overflow: hidden;
 }
 
