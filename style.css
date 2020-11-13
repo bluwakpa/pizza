@@ -9,12 +9,12 @@ body {
 html, h1, h2, p {
   font-family: quattrocento, oswald, open sans;
   color: DarkRed;
-  font-size: 16px;
+  font-size: 12px;
 }
 
 main > div > article > section > header > h2 {
   color: black;
-  font-size: 16px;
+  font-size: 12px;
 }
 
 main > div > article > section > p {
@@ -57,7 +57,7 @@ header > div > nav {
 
 header > div > nav > a {
   padding: 0 15px 10px 20px;
-  font-size: 16px;
+  font-size: 12px;
   text-decoration: none;
   font-family: oswald, open sans, sans-serif;
   color: black;
@@ -92,9 +92,9 @@ main > div {
 
 footer > div > nav > p {
   color: black;
-  font-size: 16px;
+  font-size: 12px;
 }
 
 main > div > article > section > footer > p {
-  font-size: 16px;
+  font-size: 12px;
 }
