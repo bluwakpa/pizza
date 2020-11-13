@@ -13,7 +13,7 @@ html, h1, h2, p {
 }
 
 main > div > article > section > header > h2 {
-  color: #668284;
+  color: #black;
   font-size: 24px;
 }
 
@@ -37,7 +37,7 @@ main > div > article {
 main > div > article > section {
   margin-left: -200%;
   width: 500%;
-  border-bottom: 3px solid #668284;
+  border-bottom: 3px solid #black;
 }
 
 main > div > article > section:last-child {
@@ -60,11 +60,11 @@ header > div > nav > a {
   font-size: 16px;
   text-decoration: none;
   font-family: oswald, open sans, sans-serif;
-  color: #493736;
+  color: #black;
 }
 
 header > div > nav a:hover {
-  color: #668284;
+  color: #red;
 }
 
 nav,
@@ -80,18 +80,18 @@ nav:after {
 }
 
 main > div > article > section p {
-  color: #493736;
+  color: #black;
 }
 
 main > div {
-  border: 3px solid #668284;
+  border: 3px solid #black;
   padding: 10px;
-  background-color: #B9D7D9;
+  background-color: #grey;
   overflow: hidden;
 }
 
 footer > div > nav > p {
-  color: #668284;
+  color: #black;
   font-size: 16px;
 }
 
