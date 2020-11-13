@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Quattrocento|Playfair+Display');
 body {
   margin: 0;
-  background-color: #eee;
+  background-color: white;
 }
 
 html, h1, h2, p {
@@ -13,7 +13,7 @@ html, h1, h2, p {
 }
 
 main > div > article > section > header > h2 {
-  color: #black;
+  color: black;
   font-size: 24px;
 }
 
@@ -60,11 +60,11 @@ header > div > nav > a {
   font-size: 16px;
   text-decoration: none;
   font-family: oswald, open sans, sans-serif;
-  color: #black;
+  color: black;
 }
 
 header > div > nav a:hover {
-  color: #red;
+  color: red;
 }
 
 nav,
@@ -80,18 +80,18 @@ nav:after {
 }
 
 main > div > article > section p {
-  color: #black;
+  color: black;
 }
 
 main > div {
-  border: 3px solid #black;
+  border: 3px solid black;
   padding: 10px;
-  background-color: #grey;
+  background-color: grey;
   overflow: hidden;
 }
 
 footer > div > nav > p {
-  color: #black;
+  color: black;
   font-size: 16px;
 }
 
