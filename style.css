@@ -36,7 +36,7 @@ main > div > article {
 
 main > div > article > section {
   margin-left: -200%;
-  width: 1000%;
+  width: 500%;
   border-bottom: 3px solid black;
 }
 
@@ -69,7 +69,7 @@ header > div > nav a:hover {
 
 nav,
 div {
-  width: 500px;
+  width: 300px;
   margin: auto;
 }
 
