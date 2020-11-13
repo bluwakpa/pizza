@@ -85,7 +85,7 @@ main > div > article > section p {
 
 main > div {
   border: 3px solid #668284;
-  padding: 5px;
+  padding: 0px;
   background-color: #B9D7D9;
   overflow: hidden;
 }
