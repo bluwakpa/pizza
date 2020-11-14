@@ -13,7 +13,7 @@ html, h1, h2, p {
 }
 
 main > div > article > section > header > h2 {
-  color: purple;
+  color: white;
   font-size: 24px;
 }
 
@@ -60,11 +60,11 @@ header > div > nav > a {
   font-size: 16px;
   text-decoration: none;
   font-family: 'Montserrat', sans-serif;
-  color: black;
+  color: white;
 }
 
 header > div > nav a:hover {
-  color: black;
+  color: white;
 }
 
 nav, div {
@@ -85,7 +85,7 @@ main > div > article > section p {
 main > div {
   border: 3px solid #668284;
   padding: 0px;
-  background-color: blue;
+  background-color: whitesmoke;
   overflow: hidden;
 }
 
