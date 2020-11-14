@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light|Oswald|Permanent+Marker|Montserrat');
 body {
   margin: 0;
-  background-color: #eee;
+  background-color: white;
 }
 
 html, h1, h2, p {
@@ -13,7 +13,7 @@ html, h1, h2, p {
 }
 
 main > div > article > section > header > h2 {
-  color: #668284;
+  color: purple;
   font-size: 24px;
 }
 
@@ -37,7 +37,7 @@ main > div > article {
 main > div > article > section {
   margin-left: -200%;
   width: 500%;
-  border-bottom: 0px solid #668284;
+  border-bottom: 0px solid black;
 }
 
 main > div > article > section:last-child {
@@ -60,11 +60,11 @@ header > div > nav > a {
   font-size: 16px;
   text-decoration: none;
   font-family: 'Montserrat', sans-serif;
-  color: #493736;
+  color: black;
 }
 
 header > div > nav a:hover {
-  color: #668284;
+  color: black;
 }
 
 nav, div {
@@ -79,18 +79,18 @@ nav:after {
 }
 
 main > div > article > section p {
-  color: #493736;
+  color: white;
 }
 
 main > div {
   border: 3px solid #668284;
   padding: 0px;
-  background-color: #B9D7D9;
+  background-color: blue;
   overflow: hidden;
 }
 
 footer > div > nav > p {
-  color: #668284;
+  color: blue;
   font-size: 16px;
 }
 
