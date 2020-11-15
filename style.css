@@ -3,7 +3,8 @@
 @import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light|Oswald|Permanent+Marker|Montserrat');
 body {
   margin: 0;
-  background-color: #eee;
+  background-image: url("paper.gif");
+  background-color: #cccccc;
 }
 
 html, h1, h2, p {
