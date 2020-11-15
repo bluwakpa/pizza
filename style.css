@@ -28,7 +28,7 @@ main > div > article > section > p {
 main > div > article > section > header > h2, 
 main > div > article > section p, 
 footer > div > nav > p {
-  /*text-align: center;*/
+  text-align: center;
   word-wrap: break-word;
   margin: 0;
   padding: 0px;
@@ -50,7 +50,7 @@ main > div > article > section:last-child {
 }
 
 header > div > h1 > h2{
-  text-align: center;
+  /*text-align: center;*/
   font-size: 70px;
   margin: 0;
   font-family: 'Permanent Marker', cursive;
