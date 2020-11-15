@@ -4,6 +4,8 @@
 body {
   margin: 0;
   background-image: url(images/jazmin-quaynor-unsplash.jpg);
+  height: 200px;
+  width: 50%;
   background-color: #cccccc;
 }
 
