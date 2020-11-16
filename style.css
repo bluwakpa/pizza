@@ -10,6 +10,10 @@ body {
   background-repeat: no-repeat;
 }
 
+#contact {
+  text-align: center;
+}
+
 html, h1, h2, p {
   font-family: 'Shadows Into Light', cursive;
   color: DarkRed;
