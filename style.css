@@ -19,7 +19,7 @@ body {
   text-align: center;
   list-style-position: inside;
   font-family: 'Oswald', sans-serif;
-  color: DarkRed;
+  color: #493736;
 }
 
 h1 {
@@ -27,6 +27,7 @@ h1 {
   font-family: 'Permanent Marker', cursive;
   font-size: 70px;
   margin: 0;
+  color: darkred;
 }
 
 h2 {
