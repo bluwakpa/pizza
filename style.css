@@ -18,11 +18,18 @@ ol {
   text-align: center;
 }
 
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
 html, h1, h2, p {
   font-family: 'Shadows Into Light', cursive;
   color: DarkRed;
   font-size: 24px;
-  text-align: center;
 }
 
 main > div > article > section > header > h2 {
