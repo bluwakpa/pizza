@@ -68,11 +68,11 @@ main > div > article > section:last-child {
 }
 
 header > div > h1 > h2{
-  /*text-align: center;*/
+  text-align: center;
   font-size: 70px;
   margin: 0;
-  /*font-family: 'Permanent Marker', cursive;
-} */
+  font-family: 'Permanent Marker', cursive;
+} 
 
 header > div > nav {
   margin: 0 0 10px 10px;
