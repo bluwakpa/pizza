@@ -2,10 +2,11 @@
 
 @import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light|Oswald|Permanent+Marker|Montserrat');
 body {
-  margin: 0;
+  /* margin: 0;*/
   background-image: url(images/jazmin-quaynor-unsplash.jpg);
   height: 200px;
-  width: 25%;
+  width: 80%;
+  margin: 0 auto;
   background-color: #cccccc;
   background-repeat: no-repeat;
 }
