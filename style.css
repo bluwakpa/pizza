@@ -103,7 +103,7 @@ main > div > article > section p {
 main > div {
   border: 3px solid #668284;
   padding: 10px;
-  background-color: whitesmoke;
+  background-color: hsla(120,60%,70%,0.3);} /* pastel green */
   overflow: hidden;
 }
 
