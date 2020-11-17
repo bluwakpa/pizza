@@ -1,11 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light|Oswald|Permanent+Marker|Montserrat');
 body {
-  /* margin: 0;*/
   background-image: url(images/jazmin-quaynor-unsplash.jpg);
   height: 200px;
   width: 80%;
   margin: 0 auto;
-  /*background-color: #cccccc;*/
   background-repeat: no-repeat;
   background-position-x: center;
 }
@@ -70,7 +68,6 @@ a {
   font-size: 16px;
   word-wrap: break-word;
   text-decoration: none;
-  /*color: #493736;*/
 }
 
 nav a:hover {
