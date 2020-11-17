@@ -51,7 +51,7 @@ article {
   overflow: visible;
 }
 
-main > div > article > section {
+section {
   /* margin-left: -200%;
   width: 500%; */
   border-bottom: 3px solid #668284;
@@ -61,11 +61,11 @@ main > div > article > section {
   border-bottom: none;
 }*/
 
-header > div > nav {
+div > nav {
   margin: 0 0 10px 10px;
 }
 
-header > div > nav > a {
+a {
   padding: 0px 15px 10px 20px;
   font-size: 16px;
   word-wrap: break-word;
@@ -73,7 +73,7 @@ header > div > nav > a {
   /*color: #493736;*/
 }
 
-header > div > nav a:hover {
+nav a:hover {
   color: #668284;
 }
 
@@ -89,7 +89,7 @@ nav:after {
   clear: both;
 }
 
-main > div > article > section p {
+section p {
   /*color: #493736;*/
 }
 
@@ -100,7 +100,7 @@ main > div {
   overflow: hidden;
 }
 
-footer > div > nav > p {
+p {
   color: #668284;
   font-size: 16px;
 }
