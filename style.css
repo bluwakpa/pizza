@@ -31,11 +31,12 @@ h1 {
 
 h2 {
   text-align: center;
+  color: #3a4849;
+  font-size: 24px;
 }
 
 main > div > article > section > header > h2 {
-  color: #3a4849;
-  font-size: 24px;
+  
 }
 
 main > div > article > section > p {
