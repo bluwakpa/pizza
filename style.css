@@ -18,7 +18,7 @@ body {
 
 .center {
   text-align: center;
-  list-style-position: inside;
+  list-style-position: outside;
   font-family: 'Oswald', sans-serif;
   color: #493736;
 }
