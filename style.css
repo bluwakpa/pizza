@@ -12,6 +12,7 @@ body {
   text-align: center;
 }
 
+/* unordered and ordered lists centered */
 .center {
   text-align: center;
   list-style-position: inside;
@@ -19,6 +20,7 @@ body {
   color: #493736;
 }
 
+/* Makha title name */
 h1 {
   text-align: center;
   font-family: 'Permanent Marker', cursive;
@@ -27,16 +29,20 @@ h1 {
   color: darkred;
 }
 
+/* Front end Developer */
 h2 {
   text-align: center;
   color: #3a4849;
   font-size: 24px;
 }
 
+/* All paragraphs */
 p {
   font-size: 16px;
+  color: #668284;
 }
 
+/* Heading 2 titles and paragraphs */
 h2, p {
   text-align: center;
   word-wrap: break-word;
@@ -45,20 +51,23 @@ h2, p {
   font-family: 'Oswald', sans-serif;
 }
 
+
 article {
   overflow: visible;
 }
 
+/* Section borders */
 section {
   /* margin-left: -200%;
   width: 500%; */
   border-bottom: 3px solid #668284;
 }
 
-/*main > div > article > section:last-child {
+main > div > article > section:last-child {
   border-bottom: none;
-}*/
+}
 
+/* Navigation spacing */
 div > nav {
   margin: 0 0 10px 10px;
 }
@@ -70,16 +79,19 @@ a {
   text-decoration: none;
 }
 
+/* Navigation hover effects */
 nav a:hover {
   color: #668284;
 }
 
+/* */
 nav, div {
   /* width: 1000px; */
   margin: auto;
   text-align: center;
 }
 
+/* */
 nav:after {
   content: "";
   display: table;
@@ -90,6 +102,7 @@ section p {
   /*color: #493736;*/
 }
 
+/* Background dividers and color */
 main > div {
   border: 3px solid #668284;
   padding: 10px;
@@ -97,10 +110,10 @@ main > div {
   overflow: hidden;
 }
 
-p {
+/* p {
   color: #668284;
   font-size: 16px;
-}
+} */
 
 main > div > article > section > footer > p {
   font-size: 16px;
