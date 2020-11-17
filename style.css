@@ -9,6 +9,7 @@ body {
   margin: 0 auto;
   background-color: #cccccc;
   background-repeat: no-repeat;
+  background-position-x: center;
 }
 
 #contact {
@@ -58,8 +59,8 @@ main > div > article {
 }
 
 main > div > article > section {
-  margin-left: -200%;
-  width: 500%;
+  /* margin-left: -200%;
+  width: 500%; */
   border-bottom: 3px solid #668284;
 }
 
@@ -84,7 +85,7 @@ header > div > nav a:hover {
 }
 
 nav, div {
-  width: 1000px;
+  /* width: 1000px; */
   margin: auto;
 }
 
