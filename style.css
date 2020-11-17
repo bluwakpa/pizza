@@ -46,7 +46,6 @@ main > div > article > section > p {
 
 main > div > article > section > header > h2, 
 main > div > article > section p, 
-main > div > article > section > div > h2,
 footer > div > nav > p {
   text-align: center;
   word-wrap: break-word;
