@@ -46,7 +46,7 @@ main > div > article > section > p {
 
 main > div > article > section > header > h2, 
 main > div > article > section p, 
-footer > div > nav > p {
+/*footer > div > nav > p {*/
   text-align: center;
   word-wrap: break-word;
   margin: 0;
@@ -70,6 +70,7 @@ main > div > article > section:last-child {
 
 header > div > nav {
   margin: 0 0 10px 10px;
+  text-align: center;
 }
 
 header > div > nav > a {
