@@ -96,9 +96,9 @@ nav:after {
   clear: both;
 }
 
-/*main > div > article > section p {
+main > div > article > section p {
   /*color: #493736;*/
-}*/
+}
 
 main > div {
   border: 3px solid #668284;
