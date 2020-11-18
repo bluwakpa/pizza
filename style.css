@@ -18,6 +18,7 @@ body {
   list-style-position: inside;
   font-family: 'Oswald', sans-serif;
   color: #493736;
+  white-space: nowrap;
 }
 
 /* Makha title name */
