@@ -103,11 +103,6 @@ nav:after {
   clear: both;
 }
 
-/* 
-section p {
-  color: #493736;
-} */
-
 /* Background Dividers and Color */
 main > div {
   border: 3px solid #668284;
@@ -117,7 +112,7 @@ main > div {
 }
 
 
-main > div > article > section > footer > p {
+/* main > div > article > section > footer > p {
   color: #493736;
   font-size: 8px;
   text-align: center;
