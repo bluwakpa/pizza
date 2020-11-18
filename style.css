@@ -14,10 +14,11 @@ body {
 
 /* unordered and ordered lists centered */
 .center {
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  color: #668284;
   text-align: center;
   list-style-position: inside;
-  font-family: 'Oswald', sans-serif;
-  color: #668284;
   white-space: nowrap;
 }
 
