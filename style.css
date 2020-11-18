@@ -1,3 +1,4 @@
+/* Background Image */
 @import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light|Oswald|Permanent+Marker|Montserrat');
 body {
   background-image: url(images/jazmin-quaynor-unsplash.jpg);
@@ -12,7 +13,7 @@ body {
   text-align: center;
 }
 
-/* unordered and ordered class lists centered */
+/* Unordered and Ordered Class Lists Centered */
 .center {
   font-family: 'Oswald', sans-serif;
   font-size: 16px;
@@ -22,7 +23,7 @@ body {
   white-space: nowrap;
 }
 
-/* Makha title name */
+/* Makha Title Name */
 h1 {
   text-align: center;
   font-family: 'Permanent Marker', cursive;
@@ -31,20 +32,20 @@ h1 {
   color: darkred;
 }
 
-/* Front end Developer */
+/* Front End Developer */
 h2 {
   text-align: center;
   color: #3a4849;
   font-size: 24px;
 }
 
-/* All paragraphs */
+/* All Paragraphs */
 p {
   font-size: 16px;
   color: #493736;
 }
 
-/* Heading 2 titles and paragraphs */
+/* Heading 2 Titles and Paragraphs */
 h2, p {
   text-align: center;
   word-wrap: break-word;
@@ -58,7 +59,7 @@ article {
   overflow: visible;
 }
 
-/* Section borders */
+/* Section Borders */
 section {
   /* margin-left: -200%;
   width: 500%; */
@@ -70,7 +71,7 @@ main > div > article > section:last-child {
   border-bottom: none;
 }
 
-/* Navigation spacing */
+/* Navigation Spacing */
 div > nav {
   margin: 0 0 10px 10px;
 }
@@ -83,7 +84,7 @@ a {
   text-decoration: none;
 }
 
-/* Navigation hover effects */
+/* Navigation Hover Effects */
 nav a:hover {
   color: #668284;
 }
@@ -107,7 +108,7 @@ section p {
   /*color: #493736;*/
 } */
 
-/* Background dividers and color */
+/* Background Dividers and Color */
 main > div {
   border: 3px solid #668284;
   padding: 10px;
