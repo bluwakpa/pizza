@@ -56,7 +56,7 @@ h2, p {
 
 /* */
 article {
-  overflow: visible;
+  overflow: auto;
 }
 
 /* Section Borders */
