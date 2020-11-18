@@ -61,22 +61,20 @@ article {
 
 /* Section Borders */
 section {
-  /* margin-left: -200%;
-  width: 500%; */
   border-bottom: 3px solid #668284;
 }
 
-/* */
-main > div > article > section:last-child {
+/* Remove Additional Border Bottom */
+section:last-child {
   border-bottom: none;
 }
 
-/* Navigation Spacing */
+/* Navigation Text Spacing */
 div > nav {
   margin: 0 0 10px 10px;
 }
 
-/* */
+/* Navigation Container */
 a {
   padding: 0px 15px 10px 20px;
   font-size: 16px;
@@ -89,19 +87,11 @@ nav a:hover {
   color: #668284;
 }
 
-/* */
+/* Container Margins and Alignment */
 nav, div {
-  /* width: 1000px; */
   margin: auto;
   text-align: center;
 }
-
-/* Navigation
-nav:after {
-  content: "";
-  display: table;
-  clear: both;
-}*/
 
 /* Background Dividers and Color */
 main > div {
