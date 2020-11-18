@@ -96,12 +96,12 @@ nav, div {
   text-align: center;
 }
 
-/* */
+/* Navigation
 nav:after {
   content: "";
   display: table;
   clear: both;
-}
+}*/
 
 /* Background Dividers and Color */
 main > div {
@@ -110,10 +110,3 @@ main > div {
   background-color: hsla(120,60%,95%,0.92);} /* Hue-saturation-lightness-alpha model, pastel green */
   overflow: hidden;
 }
-
-
-/* main > div > article > section > footer > p {
-  color: #493736;
-  font-size: 8px;
-  text-align: center;
-} 
