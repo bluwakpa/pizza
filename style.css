@@ -97,6 +97,6 @@ nav, div {
 main > div {
   border: 3px solid #1f1f2b;
   padding: 10px;
-  background-color: hsl(229, 24%, 40%);} /* Hue-saturation-lightness-alpha model, pastel green */
+  background-color: hsl(229, 24%, 40%, 0.3);} /* Hue-saturation-lightness-alpha model, pastel green */
   overflow: hidden;
 }
