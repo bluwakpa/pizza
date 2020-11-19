@@ -29,13 +29,13 @@ h1 {
   font-family: 'Permanent Marker', cursive;
   font-size: 70px;
   margin: 0;
-  color: darkred;
+  color: #fb0013;
 }
 
 /* Front End Developer */
 h2 {
   text-align: center;
-  color: #3a4849;
+  color: #97a9d8;
   font-size: 24px;
 }
 
@@ -61,7 +61,7 @@ article {
 
 /* Section Borders */
 section {
-  border-bottom: 3px solid #668284;
+  border-bottom: 3px solid #492e57;
 }
 
 /* Remove Additional Border Bottom */
@@ -84,7 +84,7 @@ a {
 
 /* Navigation Hover Effects */
 nav a:hover {
-  color: #668284;
+  color: #97a9d8;
 }
 
 /* Container Margins and Alignment */
@@ -95,7 +95,7 @@ nav, div {
 
 /* Background Dividers and Color */
 main > div {
-  border: 3px solid #668284;
+  border: 3px solid #1f1f2b;
   padding: 10px;
   background-color: hsl(229, 24%, 40%);} /* Hue-saturation-lightness-alpha model, pastel green */
   overflow: hidden;
