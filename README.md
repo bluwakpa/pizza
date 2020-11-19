@@ -1,6 +1,6 @@
-# pizza
+# portfolio
 
-This application shows my favorite pizza topings.
+This website introduces Makha Blu Wakpa, the Front End Developer.
 
 ## About Me
 
