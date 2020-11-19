@@ -28,7 +28,7 @@ h1 {
   text-align: center;
   font-family: 'Permanent Marker', cursive;
   font-size: 70px;
-  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-width: .1px;
   -webkit-text-stroke-color: white;
   margin: 0;
   color: #ff441b;
@@ -95,6 +95,13 @@ nav, div {
   text-align: center;
 }
 
+#rcorners1 {
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
 /* Background Dividers and Color */
 main > div {
   border: 3px solid #1f1f2b;
