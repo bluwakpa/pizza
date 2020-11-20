@@ -42,14 +42,20 @@ h2 {
   font-size: 24px;
 }
 
+h3 {
+  text-align: center;
+  color: #97a9d8;
+  font-size: 18px;
+}
+
 /* All Paragraphs */
 p {
   font-size: 16px;
   color: #f0e8e6;
 }
 
-/* Heading 2 Titles and Paragraphs */
-h2, p {
+/* Heading Titles and Paragraphs */
+h2, h3, p {
   text-align: center;
   word-wrap: break-word;
   margin: 0;
@@ -81,6 +87,7 @@ div > nav {
 a {
   padding: 0px 15px 10px 20px;
   font-size: 16px;
+  color: #97a9d8;
   word-wrap: break-word;
   text-decoration: none;
 }
